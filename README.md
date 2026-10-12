@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Student Marks Predictor
 
 A complete React and Vite student performance dashboard that runs entirely in the browser. Student profiles, prediction history, and dashboard settings are persisted in `localStorage`; no server, database, Python environment, external API, or account is needed to use the app.
@@ -52,3 +53,7 @@ The app stores records using these keys:
 - `ai_predictor_settings`
 
 Data belongs to the current browser profile and device. Clearing site data or using another browser/profile will not carry records over. The app does not transmit student information to a server.
+=======
+# Ai-Marks-Predictor
+AI Marks Predictor is an interactive web application built with React.js designed to predict student marks and academic performance based on input metrics like study hours, attendance, and past results. Features a clean, responsive UI, real-time calculations, dynamic inputs, and instant score analysis for students &amp; teachers.
+>>>>>>> a9fa8a156a29745362651a2600ba1e37fa61bca7
